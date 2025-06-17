@@ -1,0 +1,1 @@
+Número de horas com alugueres > 0: 119

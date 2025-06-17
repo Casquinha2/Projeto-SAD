@@ -1,0 +1,4 @@
+Tarefa 6 - Máximo histórico de alugueres
+Data e hora: 2025-06-11T21:00:00Z
+Número de bicicletas alugadas: 792
+

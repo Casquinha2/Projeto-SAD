@@ -1,0 +1,2 @@
+"dt_txt" "main.temp" "main.humidity" "city"
+"2025-06-09 18:00:00" 18.76 100 "Seoul"

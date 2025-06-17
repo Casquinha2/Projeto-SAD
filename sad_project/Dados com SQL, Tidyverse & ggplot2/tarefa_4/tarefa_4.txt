@@ -1,0 +1,6 @@
+Tarefa 4 - Estações incluídas no conjunto de dados de partilha de bicicletas em Seul
+
+O conjunto de dados contém informação para as seguintes estações do ano:
+- verão (summer)
+
+Embora a variável 'Season' esteja preparada para incluir todas as quatro estações (inverno, primavera, verão e outono), os dados disponíveis abrangem apenas o verão.

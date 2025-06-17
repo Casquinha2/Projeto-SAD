@@ -1,0 +1,14 @@
+Tarefa 7 - Temperatura média horária e alugueres médios por estação
+# A tibble: 10 × 4
+  Season        Hour temperatura_media alugueres_medios
+   <chr>        <int>             <dbl>            <dbl>
+ 1 "\"summer\""    22              28.1               88
+ 2 "\"summer\""    12              17.9               84
+ 3 "\"summer\""    16              21.7               84
+ 4 "\"summer\""    11              29.3               77
+ 5 "\"summer\""     3              27.5               74
+ 6 "\"summer\""     9              17.3               74
+ 7 "\"summer\""    19              21.8               59
+ 8 "\"summer\""     4              27.0               40
+ 9 "\"summer\""    17              29.7               40
+10 "\"summer\""     1              16.9               39

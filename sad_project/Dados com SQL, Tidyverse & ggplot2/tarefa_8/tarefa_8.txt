@@ -1,0 +1,5 @@
+Tarefa 8 - Estatísticas sazonais de alugueres de bicicletas
+# A tibble: 1 × 5
+  Season media_alugueres min_alugueres max_alugueres sd_alugueres
+  <chr>            <dbl>         <int>         <int>        <dbl>
+1 summer            40.3             5            88         27.1

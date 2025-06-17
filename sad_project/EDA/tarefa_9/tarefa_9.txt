@@ -1,0 +1,5 @@
+# A tibble: 2 × 3
+  Season Precipitacao_Total Neve_Total
+  <chr>               <dbl>      <dbl>
+1 Summer               35.3       11.1
+2 summer              329.       144. 

@@ -1,0 +1,7 @@
+Tarefa 9 - Sazonalidade Meteorológica e Alugueres Médios
+
+# A tibble: 1 × 10
+  Season temperatura_media humidade_media vento_medio visibilidade_media ponto_orvalho_medio radiacao_solar_media
+  <chr>              <dbl>          <dbl>       <dbl>              <dbl>               <dbl>                <dbl>
+1 summer              22.5           66.9        11.1              7543.                14.6                 493.
+# ℹ 3 more variables: precipitacao_media <dbl>, neve_media <dbl>, alugueres_medios <dbl>

@@ -1,0 +1,10 @@
+Tarefa 10 - Contagem total de bicicletas e informações sobre a cidade de Seul
+
+Cidade: Seoul
+País: South Korea
+Latitude: 37.5665
+Longitude: 126.978
+População: 9700000
+Sistema de bicicletas: Ddareungi
+Número total de bicicletas disponíveis: 12345
+

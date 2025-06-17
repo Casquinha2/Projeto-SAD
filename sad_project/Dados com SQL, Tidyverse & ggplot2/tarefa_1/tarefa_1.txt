@@ -1,0 +1,1 @@
+Número de registos no seoul_bike_sharing: 119
